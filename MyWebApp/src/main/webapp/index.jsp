@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Get ready for tomorrows Class!!!</h2>
+<h2>Hello World!  Welcome to Tdoays Devops Class!</h2>
 </body>
 </html>
